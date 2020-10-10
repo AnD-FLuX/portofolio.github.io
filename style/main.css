@@ -1,0 +1,32 @@
+@import url(fonts.css);
+
+.header-bg {
+    background-image: url('images/bg.png');
+    background-size: cover;
+}
+
+body {
+    font-family: LibreFranklin;
+}
+
+.active {
+    font-weight: bold;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.bg-skills {
+    background-color: #FFFAF2;
+}
+
+.bg-progress {
+    background-color: #F5D6AB;
+    height: 23px;
+    border-radius: 0;
+}
+
+.bg-progress-bar {
+    background-color: #C66C49;
+}
